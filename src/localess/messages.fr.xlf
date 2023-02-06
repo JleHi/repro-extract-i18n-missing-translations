@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="fr">
+  <file id="ngi18n" original="ng.template">
+    <unit id="feature.dumb.dumb_title">
+      <segment state="initial">
+        <source>FEATURE DUMB SHARED TITLE</source>
+        <target>FEATURE DUMB SHARED TITLE</target>
+      </segment>
+    </unit>
+    <unit id="feature.dumb2.dumb_title">
+      <segment state="initial">
+        <source>FEATURE DUMB2 SHARED TITLE</source>
+        <target>FEATURE DUMB2 SHARED TITLE</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

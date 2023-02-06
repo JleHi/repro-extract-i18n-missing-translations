@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en">
+  <file id="ngi18n" original="ng.template">
+    <unit id="core.dumb.dumb_title">
+      <notes>
+        <note category="location">src/app/core/pages/core-dumb/core-dumb.component.html:1</note>
+      </notes>
+      <segment>
+        <source>DUMB CORE TITLE</source>
+      </segment>
+    </unit>
+    <unit id="core.dumb.test">
+      <notes>
+        <note category="location">src/app/core/pages/core-dumb/core-dumb.component.ts:13</note>
+      </notes>
+      <segment>
+        <source>Test in core dumb component</source>
+      </segment>
+    </unit>
+    <unit id="feature.dumb.dumb_title">
+      <notes>
+        <note category="location">src/app/features/dumb1/pages/dumb1/dumb1.component.html:1</note>
+      </notes>
+      <segment>
+        <source>FEATURE DUMB1 TITLE</source>
+      </segment>
+    </unit>
+    <unit id="feature.dumb1.test">
+      <notes>
+        <note category="location">src/app/features/dumb1/pages/dumb1/dumb1.component.ts:15</note>
+      </notes>
+      <segment>
+        <source>Test in dumb1 component</source>
+      </segment>
+    </unit>
+    <unit id="feature.dumb2.dumb_title">
+      <notes>
+        <note category="location">src/app/features/dumb2/dumb2/dumb2.component.html:1</note>
+      </notes>
+      <segment>
+        <source>FEATURE DUMB2 TITLE</source>
+      </segment>
+    </unit>
+    <unit id="feature.dumb2.test">
+      <notes>
+        <note category="location">src/app/features/dumb2/dumb2/dumb2.component.ts:17</note>
+      </notes>
+      <segment>
+        <source>Test in dumb2 component</source>
+      </segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+/.angular/cache
+node_modules
+
+# Ignore docker cache files
+.npm
+.config
+.ash_history
+.angular-config.json
+
+# Ignore npm build files
+/dist
+/artifact.tar.bz2
+./package-lock.json
+./yarn.lock
+
+# Ignore eclipse projects files
+/.project
+/.settings
+/.buildpath
+/.cache
+DevProfile/*
+.vscode/launch.json
+.vscode/settings.json
+.vscode/settings.json
