@@ -4,11 +4,11 @@ import {
 } from '@angular/core';
 
 @Component({
-  selector: 'homepage-homepage',
-  templateUrl: './homepage.component.html',
-  styleUrls: ['./homepage.component.scss']
+  selector: 'dumb-shared',
+  templateUrl: './dumb-shared.component.html',
+  styleUrls: ['./dumb-shared.component.scss']
 })
-export class Dumb2Component implements OnInit {
+export class Dumb2SharedComponent implements OnInit {
 
   constructor() {
   }

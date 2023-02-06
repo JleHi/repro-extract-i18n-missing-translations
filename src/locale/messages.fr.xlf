@@ -1,44 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en">
-  <file id="ngi18n" original="ng.template">
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="fr">
+  <file original="ng.template" id="ngi18n">
     <unit id="core.dumb.dumb_title">
-      <segment>
+      <segment state="initial">
         <source>DUMB CORE TITLE</source>
+        <target>DUMB CORE TITLE</target>
       </segment>
     </unit>
     <unit id="core.dumb.test">
-      <segment>
+      <segment state="initial">
         <source>Test in core dumb component</source>
+        <target>Test in core dumb component</target>
       </segment>
     </unit>
     <unit id="feature.dumb.dumb_title">
-      <segment>
+      <segment state="initial">
         <source>FEATURE DUMB1 TITLE</source>
+        <target>FEATURE DUMB1 TITLE</target>
       </segment>
     </unit>
     <unit id="feature.dumb1.test">
-      <segment>
+      <segment state="initial">
         <source>Test in dumb1 component</source>
+        <target>Test in dumb1 component</target>
       </segment>
     </unit>
     <unit id="feature.dumb2.dumb_title">
-      <segment>
+      <segment state="initial">
         <source>FEATURE DUMB2 TITLE</source>
+        <target>FEATURE DUMB2 TITLE</target>
       </segment>
     </unit>
     <unit id="feature.dumb2.test">
-      <segment>
+      <segment state="initial">
         <source>Test in dumb2 component</source>
+        <target>Test in dumb2 component</target>
       </segment>
     </unit>
     <unit id="shared.dumb.test">
-      <segment>
+      <segment state="initial">
         <source>Test in shared dumb component</source>
+        <target>Test in shared dumb component</target>
       </segment>
     </unit>
     <unit id="shared.dumb2.dumb_title">
-      <segment>
+      <segment state="initial">
         <source>DUMB SHARED TITLE</source>
+        <target>DUMB SHARED TITLE</target>
       </segment>
     </unit>
   </file>
