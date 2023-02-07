@@ -25,13 +25,15 @@ import { MatTableModule } from '@angular/material/table';
 import { MatTabsModule } from '@angular/material/tabs'; 
 import { TextFieldModule } from '@angular/cdk/text-field';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { Dumb2SharedComponent } from './components/dumb-shared/dumb-shared.component';
 
 
 @NgModule({
   declarations: [
-    
+   Dumb2SharedComponent
   ],
   exports: [
+    Dumb2SharedComponent,
     MatAutocompleteModule,
     MatFormFieldModule,
     MatIconModule,
